@@ -1,4 +1,6 @@
-### Hi there👋 I'm Michelle Mwangi, a passionate and results-driven Full Stack Web Developer with a flair for creating captivating web experiences. My journey in the world of technology has led me to master a diverse set of skills that bring life to the digital realm.
+### Hi there👋 
+
+I'm Michelle Mwangi, a passionate and results-driven Full Stack Web Developer with a flair for creating captivating web experiences. My journey in the world of technology has led me to master a diverse set of skills that bring life to the digital realm.
 
 🔧 Skills and Expertise:
 HTML: Crafting the foundation of every web masterpiece with semantic and structured markup.
