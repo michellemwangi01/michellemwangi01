@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 </br>
 Welcome to my page. I'm a passionate Full Stack Web Developer with a flair for creating captivating web experiences.
+</br>
 🌐 `Full Stack Web Developer`
 💡 `Innovation and Problem-Solving`
 🌟 `Charismatic and Collaborative`
