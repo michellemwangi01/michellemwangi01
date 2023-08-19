@@ -11,6 +11,3 @@ Welcome to my page. I'm a passionate Full Stack Web Developer with a flair for c
 💡 `Innovation and Problem-Solving`
 🌟 `Charismatic and Collaborative`
 🚀 `Let's Build Together`
-
-Thanks for visiting my GitHub profile! 😄👋
-
