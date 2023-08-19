@@ -1,14 +1,11 @@
 ### Hi there👋 
-
-I'm Michelle Mwangi, a passionate and results-driven Full Stack Web Developer with a flair for creating captivating web experiences. My journey in the world of technology has led me to master a diverse set of skills that bring life to the digital realm.
-
-🔧 `Skills and Expertise`:
-1. HTML: Crafting the foundation of every web masterpiece with semantic and structured markup.
-2. CSS: Adding style and beauty to web elements, ensuring pixel-perfect designs and responsive layouts.
-3. JavaScript: Transforming static pages into dynamic and interactive experiences with the power of JS.
-4. React: Harnessing the magic of this cutting-edge library to build efficient and feature-rich frontends.
-5. Python: A versatile language for backend development and data manipulation, making the impossible possible.
-
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+</br>
+Welcome to my page. I'm a passionate Full Stack Web Developer with a flair for creating captivating web experiences.
 🌐 `Full Stack Web Developer`
 💡 `Innovation and Problem-Solving`
 🌟 `Charismatic and Collaborative`
