@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 </br>
-Welcome to my page. I'm a passionate Full Stack Web Developer with a flair for creating captivating web experiences.
+"...because coding really is fun." ~Mich
 </br>
 `🌐 Full Stack Web Developer`
 `💡 Innovation and Problem-Solving`
