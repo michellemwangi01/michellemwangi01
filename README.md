@@ -7,7 +7,7 @@
 </br>
 full stack dev by day, wanderer by heart
 </br>
-</br>
+
 `🌐 Full Stack Web Developer`
 `💡 Innovation and Problem-Solving`
 `🌟 Charismatic and Collaborative`
