@@ -5,7 +5,8 @@
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 </br>
-"""full stack dev by day, wanderer by heart
+"""
+full stack dev by day, wanderer by heart
 """
 </br>
 `🌐 Full Stack Web Developer`
