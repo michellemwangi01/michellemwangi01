@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning **React Native, Angular, Vue, Django**
 - 📫 How to reach me **michellemwangim@gmail.com**
+- 📫 Check out my portfolio **[michellemwangim@gmail.com](https://portfolio-michellemwangi.onrender.com/)*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
